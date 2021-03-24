@@ -1,0 +1,169 @@
+{
+    "modules": [
+        {
+            "config": {
+                "position": [
+                    232,
+                    74
+                ]
+            },
+            "name": "New Model Object",
+            "value": {
+                "actionGroup": {
+                    "_default0_list": false,
+                    "_default1_show": false,
+                    "_default2_new_create": false,
+                    "_default3_edit_update": false,
+                    "_default4_delete": false,
+                    "customActions": []
+                },
+                "name": "Cookie",
+                "objectsettings": {
+                    "addDeletedField": true,
+                    "addHiddenField": true,
+                    "addStarttimeEndtimeFields": true,
+                    "aggregateRoot": true,
+                    "categorizable": false,
+                    "description": "",
+                    "mapToTable": "",
+                    "parentClass": "",
+                    "sorting": true,
+                    "type": "Entity",
+                    "uid": "1014123031402"
+                },
+                "propertyGroup": {
+                    "properties": [
+                        {
+                            "allowedFileTypes": "",
+                            "maxItems": "1",
+                            "propertyDescription": "",
+                            "propertyIsExcludeField": true,
+                            "propertyIsL10nModeExclude": false,
+                            "propertyIsRequired": false,
+                            "propertyName": "message",
+                            "propertyType": "Text",
+                            "uid": "1104322033456"
+                        },
+                        {
+                            "allowedFileTypes": "",
+                            "maxItems": "1",
+                            "propertyDescription": "",
+                            "propertyIsExcludeField": true,
+                            "propertyIsL10nModeExclude": false,
+                            "propertyIsRequired": false,
+                            "propertyName": "textMehrInformationen",
+                            "propertyType": "String",
+                            "uid": "1129644070853"
+                        },
+                        {
+                            "allowedFileTypes": "",
+                            "maxItems": "1",
+                            "propertyDescription": "",
+                            "propertyIsExcludeField": true,
+                            "propertyIsL10nModeExclude": false,
+                            "propertyIsRequired": false,
+                            "propertyName": "buttonMessage",
+                            "propertyType": "String",
+                            "uid": "74954045978"
+                        },
+                        {
+                            "allowedFileTypes": "",
+                            "maxItems": "1",
+                            "propertyDescription": "",
+                            "propertyIsExcludeField": true,
+                            "propertyIsL10nModeExclude": false,
+                            "propertyIsRequired": false,
+                            "propertyName": "pidDataPrivacy",
+                            "propertyType": "Select",
+                            "uid": "613906853170"
+                        },
+                        {
+                            "allowedFileTypes": "",
+                            "maxItems": "1",
+                            "propertyDescription": "",
+                            "propertyIsExcludeField": true,
+                            "propertyIsL10nModeExclude": false,
+                            "propertyIsRequired": false,
+                            "propertyName": "messageYoutube",
+                            "propertyType": "Text",
+                            "uid": "712552636890"
+                        },
+                        {
+                            "allowedFileTypes": "",
+                            "maxItems": "1",
+                            "propertyDescription": "",
+                            "propertyIsExcludeField": true,
+                            "propertyIsL10nModeExclude": false,
+                            "propertyIsRequired": false,
+                            "propertyName": "textMehrInformationenYoutube",
+                            "propertyType": "String",
+                            "uid": "208841192967"
+                        },
+                        {
+                            "allowedFileTypes": "",
+                            "maxItems": "1",
+                            "propertyDescription": "",
+                            "propertyIsExcludeField": true,
+                            "propertyIsL10nModeExclude": false,
+                            "propertyIsRequired": false,
+                            "propertyName": "buttonMessageYoutube",
+                            "propertyType": "String",
+                            "uid": "201372922896"
+                        },
+                        {
+                            "allowedFileTypes": "",
+                            "maxItems": "1",
+                            "propertyDescription": "",
+                            "propertyIsExcludeField": true,
+                            "propertyIsL10nModeExclude": false,
+                            "propertyIsRequired": false,
+                            "propertyName": "pidDataPrivacyYoutube",
+                            "propertyType": "Select",
+                            "uid": "859218649223"
+                        }
+                    ]
+                },
+                "relationGroup": {
+                    "relations": []
+                }
+            }
+        }
+    ],
+    "properties": {
+        "backendModules": [],
+        "description": "Extension to install a DSGVO \/ GDPR compliant 2-click-solution for Google Map Iframes and YouTube Iframes in a TYPO3 installation. ",
+        "emConf": {
+            "category": "templates",
+            "custom_category": "",
+            "dependsOn": "typo3 => 9.5.0-10.4.99\n",
+            "disableLocalization": false,
+            "disableVersioning": false,
+            "skipGenerateDocumentationTemplate": false,
+            "sourceLanguage": "en",
+            "state": "beta",
+            "targetVersion": "9.5.0-9.5.99",
+            "version": "1.0.1"
+        },
+        "extensionKey": "mc_cookie",
+        "name": "mc_2click_youtube_google",
+        "originalExtensionKey": "mc_cookie",
+        "originalVendorName": "MC",
+        "persons": [
+            {
+                "company": "mediaconcept GmbH",
+                "email": "albes@mediaconcept-ulm.de",
+                "name": "Rafael Gonzalez Albes",
+                "role": "Developer"
+            }
+        ],
+        "plugins": [],
+        "vendorName": "MC"
+    },
+    "wires": [],
+    "storagePath": "\/home\/www\/p577538\/html\/typo3\/typo3conf\/ext\/",
+    "log": {
+        "last_modified": "2021-03-23 04:26",
+        "extension_builder_version": "9.10.3",
+        "be_user": " (3)"
+    }
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="EXT:mc_cookie/Resources/Private/Language/locallang_csh" date="2021-01-27T14:03:02Z" product-name="mc_cookie">
+		<header/>
+		<body>
+			<trans-unit id="message.description" resname="message.description">
+				<source>Hinweistext</source>
+			</trans-unit>
+			<trans-unit id="text_mehr_informationen.description" resname="text_mehr_informationen.description">
+				<source>Linktext von Link auf Datenschutz-Seite</source>
+			</trans-unit>
+			<trans-unit id="button_message.description" resname="button_message.description">
+				<source>Text von Schaltfläche für Aktivierung des iframes</source>
+			</trans-unit>
+			<trans-unit id="pid_data_privacy.description" resname="pid_data_privacy.description">
+				<source>Auswahl der Datenschutz-Seite</source>
+			</trans-unit>
+			<trans-unit id="message_youtube.description" resname="message_youtube.description">
+				<source>Hinweistext</source>
+			</trans-unit>
+			<trans-unit id="text_mehr_informationen_youtube.description" resname="text_mehr_informationen_youtube.description">
+				<source>Linktext von Link auf Datenschutz-Seite</source>
+			</trans-unit>
+			<trans-unit id="button_message_youtube.description" resname="button_message_youtube.description">
+				<source>Text von Schaltfläche für Aktivierung des iframes</source>
+			</trans-unit>
+			<trans-unit id="pid_data_privacy_youtube.description" resname="pid_data_privacy_youtube.description">
+				<source>Auswahl der Datenschutz-Seite</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,17 @@
+page.includeCSS.iframe = EXT:mc_cookie/Resources/Public/css/iframe.css
+page.includeJSFooter.jquery = EXT:mc_cookie/Resources/Public/js/jquery.js
+page.includeJSFooter.cookie = EXT:mc_cookie/Resources/Public/js/js.cookie.min.js
+page.includeJSFooter.main = EXT:mc_cookie/Resources/Public/js/main.js
+
+# Localization:
+[siteLanguage = locale = en_US.UTF-8]
+  config {
+    htmlTag_setParams = lang="en" class="no-js"
+  }
+[global]
+
+[siteLanguage = locale = fr_FR.UTF-8]
+  config {
+    htmlTag_setParams = lang="fr" class="no-js"
+  }
+[global]

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="EXT:mc_cookie/Resources/Private/Language/locallang_db" date="2021-01-27T14:03:02Z" product-name="mc_cookie">
+		<header/>
+		<body>
+			<trans-unit id="tx_mccookie_domain_model_cookie" resname="tx_mccookie_domain_model_cookie">
+				<source>MC_Cookie</source>
+			</trans-unit>
+			<trans-unit id="tx_mccookie_domain_model_cookie.message" resname="tx_mccookie_domain_model_cookie.message">
+				<source>Hinweistext</source>
+			</trans-unit>
+			<trans-unit id="tx_mccookie_domain_model_cookie.text_mehr_informationen" resname="tx_mccookie_domain_model_cookie.text_mehr_informationen">
+				<source>Linktext von Link auf Datenschutz-Seite</source>
+			</trans-unit>
+			<trans-unit id="tx_mccookie_domain_model_cookie.button_message" resname="tx_mccookie_domain_model_cookie.button_message">
+				<source>Text von Schaltfläche für Aktivierung des iframes</source>
+			</trans-unit>
+			<trans-unit id="tx_mccookie_domain_model_cookie.pid_data_privacy" resname="tx_mccookie_domain_model_cookie.pid_data_privacy">
+				<source>Auswahl der Datenschutz-Seite</source>
+			</trans-unit>
+			<trans-unit id="tx_mccookie_domain_model_cookie.message_youtube" resname="tx_mccookie_domain_model_cookie.message_youtube">
+				<source>Hinweistext</source>
+			</trans-unit>
+			<trans-unit id="tx_mccookie_domain_model_cookie.text_mehr_informationen_youtube" resname="tx_mccookie_domain_model_cookie.text_mehr_informationen_youtube">
+				<source>Linktext von Link auf Datenschutz-Seite</source>
+			</trans-unit>
+			<trans-unit id="tx_mccookie_domain_model_cookie.button_message_youtube" resname="tx_mccookie_domain_model_cookie.button_message_youtube">
+				<source>Text von Schaltfläche für Aktivierung des iframes</source>
+			</trans-unit>
+			<trans-unit id="tx_mccookie_domain_model_cookie.pid_data_privacy_youtube" resname="tx_mccookie_domain_model_cookie.pid_data_privacy_youtube">
+				<source>Auswahl der Datenschutz-Seite</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
