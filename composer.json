@@ -1,5 +1,5 @@
 {
-	"name": "mc/mc_2click_youtube_google",
+	"name": "mcu/mc_cookie",
 	"type": "typo3-cms-extension",
 	"description": "Extension to help with the Iframe consentiment. Helping to doing with googleMaps and Youtube Iframe.",
 	"authors": [
@@ -19,7 +19,7 @@
 		}
 	},
 	"replace": {
-		"mc/mc_2click_youtube_google": "self.version",
-		"typo3-ter/mc_2click_youtube_google": "self.version"
+		"mcu/mc_cookie": "self.version",
+		"typo3-ter/mc_cookie": "self.version"
 	}
 }
